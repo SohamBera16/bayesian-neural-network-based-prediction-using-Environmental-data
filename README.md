@@ -1,5 +1,5 @@
 # bayesian-neural-network-playground
-Using Bayesian Neural Networks (BNN) in regression as well as classification tasks based on the below mentioned .
+Using Bayesian Neural Networks (BNN) in regression as well as classification tasks based on the below mentioned oceanographic dataset.
 
 The dataset used for performing the experimentations is the CalCOFI: Over 60 years of oceanographic data from Kaggle.
 
