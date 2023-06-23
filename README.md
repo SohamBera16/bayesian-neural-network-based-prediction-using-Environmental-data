@@ -12,4 +12,4 @@ The California Cooperative Oceanic Fisheries Investigations (CalCOFI) are a uniq
 Data collected at depths down to 500 m include: temperature, salinity, oxygen, phosphate, silicate, nitrate and nitrite, chlorophyll, transmissometer, PAR, C14 primary productivity, phytoplankton biodiversity, zooplankton biomass, and zooplankton biodiversity.
 
 ## Project Objective:
-The target of the project is to use Bayesian Neural Network in order to predict the quantity (in milliliters) of oxygen per liter of seawater which is a very crucial quality indicator of 
+The target of the project is to use Bayesian Neural Network in order to predict the quantity (in milliliters) of oxygen per liter of seawater which is a very crucial quality indicator of the marine 
