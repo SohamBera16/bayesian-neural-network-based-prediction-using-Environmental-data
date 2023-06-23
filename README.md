@@ -12,4 +12,4 @@ The California Cooperative Oceanic Fisheries Investigations (CalCOFI) are a uniq
 Data collected at depths down to 500 m include: temperature, salinity, oxygen, phosphate, silicate, nitrate and nitrite, chlorophyll, transmissometer, PAR, C14 primary productivity, phytoplankton biodiversity, zooplankton biomass, and zooplankton biodiversity.
 
 ## Project Objective:
-The target of the project is to use 
+The target of the project is to use Bayesian
