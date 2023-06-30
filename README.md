@@ -16,6 +16,9 @@ The target of the project is to use Bayesian Neural Network in order to predict 
 
 ## Current Model Performance: 
 MSE: approximately 10.56
+MAE: Approximately 2
+
+Hence, the model still needs to learn the underlying patterns behind the data with more training epochs or modification in the model hyperparameters, etc. 
 
 ## Current Status: 
 The loss function used for the model evaluation is a combination of BKL Loss and Cross Entropy Loss. For evaluating how the model performs on the test data I use two diferent metrics: MSE or Mean Squared Error & MAE or Mean Absolute Error. 
