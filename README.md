@@ -15,6 +15,7 @@ Data collected at depths down to 500 m include: temperature, salinity, oxygen, p
 The target of the project is to use Bayesian Neural Network in order to predict the quantity (in milliliters) of oxygen per liter of seawater which is a very crucial quality indicator of the marine ecosystem conditions. Based on the features Water temperature in degrees Celsius and Salinity (Practical Salinity Scale 1978), I try to predict the target variable. (Supervised Regression Task)
 
 ## Current Model Performance: 
+MSE: approximately 10.56
 
 ## Current Status: 
 The loss function used for the model evaluation is a combination of BKL Loss and Cross Entropy Loss. For evaluating how the model performs on the test data I use two diferent metrics: MSE or Mean Squared Error & MAE or Mean Absolute Error. 
