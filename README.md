@@ -15,3 +15,4 @@ Data collected at depths down to 500 m include: temperature, salinity, oxygen, p
 The target of the project is to use Bayesian Neural Network in order to predict the quantity (in milliliters) of oxygen per liter of seawater which is a very crucial quality indicator of the marine ecosystem conditions. Based on the features Water temperature in degrees Celsius and Salinity (Practical Salinity Scale 1978), I try to predict the target variable. (Supervised Regression Task)
 
 ## Current Status: 
+The loss function used for the model evaluation is 
