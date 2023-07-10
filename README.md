@@ -1,4 +1,4 @@
-# bayesian-neural-network-based-prediction-using-Environmental (Oceanographic)-data
+# Bayesian-Neural-Network-based-prediction-using-Environmental (Oceanographic)-data
 Using Bayesian Neural Networks (BNN) in regression as well as classification tasks based on the below mentioned oceanographic dataset.
 
 The dataset used for performing the experimentations is the CalCOFI: Over 60 years of oceanographic data from Kaggle.
